@@ -14,4 +14,7 @@ Untuk saat ini aku sedang berfokus kan di Frontend Development...
 ## Tech stack 🚀
 
 - HTML
-  
+- CSS
+- JAVA
+- PHP
+- LARAVEL
